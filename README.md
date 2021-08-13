@@ -1,2 +1,2 @@
 # tttest
-![git](images/git.png)
+![git](https://github.com/jeamn/tttest.wiki.gitimages/git.png)
